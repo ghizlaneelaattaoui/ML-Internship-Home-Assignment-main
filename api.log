@@ -1,0 +1,5 @@
+Creating virtualenv [36mdata-ml-assignment[39m in C:\Users\Hp\Desktop\ML-Internship-Home-Assignment-main\ML-Internship-Home-Assignment-main\.venv
+Traceback (most recent call last):
+  File "C:\Users\Hp\Desktop\ML-Internship-Home-Assignment-main\ML-Internship-Home-Assignment-main\data_ml_assignment\api\main.py", line 1, in <module>
+    import uvicorn
+ModuleNotFoundError: No module named 'uvicorn'
